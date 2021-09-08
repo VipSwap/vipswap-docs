@@ -1,1 +1,4 @@
-# vipswap-docs
+# VipSwap Intro
+
+VipSwap—Across-Chain Social Mining Dex.
+
