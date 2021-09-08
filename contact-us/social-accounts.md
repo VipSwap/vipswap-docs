@@ -1,10 +1,12 @@
-# 社交媒体与社区
+# Social Accounts & Communities
 
-## 推特\(Twitter\)
+## Twitter
 
 [https://twitter.com/vip\_swap](https://twitter.com/vip_swap)
 
-## 电报\(Telegram\)
+## Telegram
 
 {% embed url="https://t.me/VipSwapOffical" %}
+
+
 

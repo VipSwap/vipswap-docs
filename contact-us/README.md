@@ -1,4 +1,6 @@
-# 联系我们
+# Contact Us
 
-若您是项目方，查看合作须知，请前往商业合作页面。 若您是用户，在使用服务时需要帮助，请加入 VIPSWAP 的 [Telegram](https://t.me/VipSwapOffical)电报社区，团队与社区将尽一切可能为您解决问题
+Businesses and projects, please head to the [Business Enquiries](business-partnerships.md) page. 
+
+If you're after help with VipSwap's service, please  reach out on [VipSwap's Telegram](https://t.me/VipSwapOffical) or [VipSwap's Twitter](https://twitter.com/vip_swap), where the team and community will give you whatever help they can. There is no official [Customer support for VipSwap](customer-support.md).
 

@@ -1,8 +1,11 @@
-# 商业合作
+# Business Partnerships
 
-## 上市交易所
+## Listing on the Exchange <a id="exchange"></a>
 
-### 如何让我的代币上 VipSwap ？
+### How can I list my token on the exchange?
 
-任何人都可以在 VipSwap 交易所「上市」任何 BEP-20 区块链的代币。您不需要与我们联系或征得许可。 您只需要在流动性池中添加流动性即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
+Anybody can "list" any BEP-20 network token on VipSwap. You don't need to contact us or ask permission. You just need to add liquidity to a liquidity pool - that's it. Traders can then trade your token by entering your token's contract address.
+
+### 
+
 

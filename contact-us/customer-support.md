@@ -1,16 +1,16 @@
-# 客服服务
+# Customer Support
 
-## VipSwap 没有客服！
+## There is NO customer support for VipPancakeSwap.
 
-如果您遇到问题，请尝试联系 [官方电报 \(Telegram\) 群](%20https://t.me/VipSwapOffical)。
+If you're experiencing issues, try reaching out in [Telegram group](https://t.me/VipSwapOffical).
 
 {% hint style="danger" %}
-管理员**绝对不会**主动跟您私聊。如果有人假扮成客服直接与您联系，请立即点击封禁并将其举报为垃圾信息。
+Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report as spam.
 {% endhint %}
 
 {% hint style="danger" %}
-**任何情况下都绝对不要给任何人提供您的私钥或助记词。如果有人向您索取私钥或助记词，请立即将其举报并封禁。**
-{% endhint %}
+**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
+
 
 
 
