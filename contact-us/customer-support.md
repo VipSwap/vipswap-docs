@@ -10,7 +10,7 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 
 {% hint style="danger" %}
 **NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
-{% endhint %}
+
 
 
 
